@@ -27,8 +27,8 @@ This Master’s project analyzes survey responses from 20 K–5 educators across
 - AI should support—not replace—human-led, creative, and emotionally aware teaching.
 
 ## File Link
-- .ipynb version:  [`K5_AI_Survey_Analysis.ipynb`](./K5_AI_Survey_Analysis.ipynb)
-- HTML version for a clearer view: [`k5_ai_use_survey.html`](./k5_ai_use_survey.html) 
+- .ipynb version: [ai_use_k5_survey_analysis.ipynb](./ai_use_k5_survey_analysis.ipynb)
+- HTML version for a clearer view: [ai_use_k5_survey_analysis.html](./ai_use_k5_survey_analysis.html) 
   *Note: The HTML file can be downloaded and opened in a browser for a clearer, formatted view.*
 
 
