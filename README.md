@@ -1,4 +1,4 @@
-# AI Use in K–5 Education — Survey Analysis
+# AI Use in K–5 Education : Survey Analysis
 *This project was completed for academic purposes as part of a Master’s degree.*
 
 ## Job Relevance
